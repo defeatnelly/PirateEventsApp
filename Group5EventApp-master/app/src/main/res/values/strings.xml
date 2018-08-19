@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PirateEvents</string>
+    <string name="event_name_label">Event Name</string>
+    <string name="event_name_hint">Enter a name for the event.</string>
+    <string name="event_location_label">Event Location</string>
+    <string name="event_location_hint">Enter the event location.</string>
+    <string name="event_date">Date of Event</string>
+    <string name="title_activity_login">PirateEvents</string>
+
+    <!-- Strings related to login -->
+    <string name="welcome_message">Welcome to PirateEvents</string>
+    <string name="login_prompt">Please sign in with your Google account</string>
+    <string name="login_error_msg">Failed to login</string>
+
+    <!--String related to event-->
+    <string name="join">join Event</string>
+    <string name="cancel">cancel Participation</string>
+    <string name="Event_date_lable"> Event Date</string>
+    <string name="event_date_hint">Event Date</string>
+    <string name="event_description_hint">Desciption</string>
+    <string name="event_organizer_hint">Organizer</string>
+    <string name="create">Create Event</string>
+    <string name="delete">Delete Event</string>
+    <string name="upload_image">upload Image</string>
+    <string name="event_time_hint">Event start time</string>
+    <string name="join_sucessfull">You have Joined Sucessfully.Thank you for Joining the event!</string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="time_picker_title"> Event Time</string>
+    <string name="exit_message">Do you want to exit the app?</string>
+    <string name="exit">Exit</string>
+    <string name="stay">Stay</string>
+    <string name="confirm">Confirm</string>
+
+
+</resources>

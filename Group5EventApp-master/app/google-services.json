@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "249089063092",
+    "firebase_url": "https://pirateevent-ba20b.firebaseio.com",
+    "project_id": "pirateevent-ba20b",
+    "storage_bucket": "pirateevent-ba20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249089063092:android:3b44cb8b30ac73fe",
+        "android_client_info": {
+          "package_name": "edu.ecu.cs.eventapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249089063092-l7u67besv0andg3g66eok0ku4ef2ccmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ecu.cs.eventapp",
+            "certificate_hash": "1217c01a0af169a18b184b54b4837e4960e9cea0"
+          }
+        },
+        {
+          "client_id": "249089063092-g1bhv45buhr8265j50v07iud6otm8lr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWe9amTw5zgSrS0tAjSy3BlM7vMiqpRTM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249089063092-g1bhv45buhr8265j50v07iud6otm8lr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
